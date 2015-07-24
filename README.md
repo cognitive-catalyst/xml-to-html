@@ -15,6 +15,7 @@ To install this project, you will need:
 2. Edit your `~/.bash_profile` to include the line
 ```
     export JAVA_HOME=/path/to/java8
+```
 
 ##Basic Usage
 
